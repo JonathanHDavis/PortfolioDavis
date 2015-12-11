@@ -1,0 +1,14 @@
+img {
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	border: 0px;
+	width: 340px;
+	height: 300px;
+
+}
+
+h1 {
+	color: blue;
+	text-align: center;
+}

@@ -1,0 +1,39 @@
+.headers {
+	color: red;
+	text-align: center;
+}
+
+ul {
+	float: right;
+	font-size: 20px;
+	list-style: none;
+	padding: 5px;
+}
+
+#facebook {
+background-color: blue;
+color: white;
+width: 325px;
+height: 175px;
+margin-right: 200px;
+}
+
+#twitter {
+background-color: yellow;
+color: black;
+width: 325px;
+height: 175px;
+}
+
+.move-me {
+
+	position: fixed;
+	left: 0px;
+}
+
+img {
+	border: 0px;
+	width: 85px;
+	height: 85px;
+}
+
