@@ -11,6 +11,12 @@ body {
 	margin: 0 auto;
 }
 
+.column {
+	float: left;
+	display: inline;
+	width: 200px;
+}
+
 a:hover {
 	color: white;
 	}
