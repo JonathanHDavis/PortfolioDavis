@@ -1,0 +1,29 @@
+nav {
+	width: 175px;
+	background-color: lavender;
+	border-radius: 50px;
+	font-size: 20px;
+	}
+
+body {
+	width: 100%;
+	background-color:green;
+	margin: 0 auto;
+}
+
+a:hover {
+	color: white;
+	}
+
+ul {
+	list-style: none;
+	}
+
+ul li {
+	display: inline-block;
+	}
+
+ul li a {
+	text-decoration: none;
+	color: black;
+	}
