@@ -6,11 +6,11 @@ nav {
 	font-family: impact;
 	}
 
+
 h1 {
 	text-align: center;
 	font-size: 100px;
 	font-family: Courier;
-
 }
 
 #Picture {
@@ -24,6 +24,19 @@ h1 {
 	font-size: 15px;
 	font-family: Helvetica; 
 }
+
+ul {
+	list-style: none;
+}
+
+ul li a {
+	text-decoration: none;
+	color: black;
+	}
+
+ul li {
+	display: inline-block;
+	}
 
 img {
 	width: 400px;
@@ -41,23 +54,23 @@ body {
 	font-family: arial;
 }
 
+.projectlist {
+	font-size: 25px;
+	color: purple;
+	display: block;
+}
+
 
 a:hover {
 	color: white;
 	}
 
-ul {
+.navigation {
 	list-style: none;
-	}
-
-ul li {
 	display: inline-block;
-	}
-
-ul li a {
 	text-decoration: none;
 	color: black;
-	}
+}
 
 #footer {
 	clear: both;
@@ -67,4 +80,5 @@ ul li a {
 	border-style: dotted;
 	border-color: green;
 	display: inline-block;
+	font-family: Comic Sans MS;
 }

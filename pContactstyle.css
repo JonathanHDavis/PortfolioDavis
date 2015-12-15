@@ -1,14 +1,26 @@
 nav {
-	width: 175px;
+	width: 180px;
 	background-color: lavender;
 	border-radius: 50px;
 	font-size: 20px;
+	font-family: impact;
 	}
-
 body {
 	width: 100%;
-	background-color:blue;
+	background-color:pink;
 	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+	font-size: 75px;
+	font-family: Courier;
+}
+
+img {
+	float: left;
+	width: 33%;
+	height: 300px;
 }
 
 .column {
@@ -33,3 +45,10 @@ ul li a {
 	text-decoration: none;
 	color: black;
 	}
+
+#footer {
+	clear:both;
+	font-family: impact;
+	font-size:30px;
+	width: 100%;
+}
