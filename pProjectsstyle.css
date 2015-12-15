@@ -6,16 +6,16 @@ nav {
 	font-family:impact;
 	}
 
-ul {
+nav ul {
 	list-style: none;
 }
 
-ul li a {
+nav ul li a {
 	text-decoration: none;
 	color: black;
 	}
 
-ul li {
+nav ul li {
 	display: inline-block;
 	}
 
@@ -31,17 +31,20 @@ body {
 	margin: 0 auto;
 }
 
+.projectlist li {
+	font-size: 40px;
+	list-style: none;
+	color: purple;
+	font-family: arial;
+	text-decoration: none;
+}
+
+a {
+	text-decoration: none;
+}
+
 a:hover {
 	color: white;
 	}
-
-.projectlist {
-	font-size: 40px;
-	list-style: none;
-	text-decoration: none;
-	color: purple;
-	font-style: arial;
-}
-
 
 
